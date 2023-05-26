@@ -1,0 +1,20 @@
+.footer{
+    height: 20vh;
+    background-color: #380202;
+    justify-content: space-around;
+}
+
+.footerContainer{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.iconsContainer{
+    max-width: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}

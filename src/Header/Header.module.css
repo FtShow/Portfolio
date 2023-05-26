@@ -1,0 +1,21 @@
+.header{
+    height: 80px;
+    background-color: #4a662f;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.headerContainer{
+    width: 80%;
+    display: flex;
+    margin: 0 auto;
+    border: 1px solid;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+@media screen and (max-width: 700px){
+    .headerContainer{
+        justify-content: space-evenly;
+    }
+}
