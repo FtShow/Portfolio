@@ -12,7 +12,7 @@ import {Footer} from "./Footer/Footer";
 const App = () => {
     return (
         <>
-            <Header/>6
+            <Header/>
             <MainBlock/>
             <SkillsBlock/>
             <MyWorks/>
