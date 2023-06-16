@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/httpsnpm%20install%20-g%20gh-pages://Ftshow.github.io/Portfolio/static/css/main.910fa5be.css",
+    "main.js": "/httpsnpm%20install%20-g%20gh-pages://Ftshow.github.io/Portfolio/static/js/main.03d545d2.js",
+    "static/js/787.1ed0c42c.chunk.js": "/httpsnpm%20install%20-g%20gh-pages://Ftshow.github.io/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "index.html": "/httpsnpm%20install%20-g%20gh-pages://Ftshow.github.io/Portfolio/index.html",
+    "main.910fa5be.css.map": "/httpsnpm%20install%20-g%20gh-pages://Ftshow.github.io/Portfolio/static/css/main.910fa5be.css.map",
+    "main.03d545d2.js.map": "/httpsnpm%20install%20-g%20gh-pages://Ftshow.github.io/Portfolio/static/js/main.03d545d2.js.map",
+    "787.1ed0c42c.chunk.js.map": "/httpsnpm%20install%20-g%20gh-pages://Ftshow.github.io/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.910fa5be.css",
+    "static/js/main.03d545d2.js"
+  ]
+}
