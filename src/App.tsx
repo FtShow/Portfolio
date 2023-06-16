@@ -14,7 +14,7 @@ const App = () => {
         <>
             <Header/>
             <MainBlock/>
-            <SkillsBlock/>1
+            <SkillsBlock/>
             <MyWorks/>
             <WorkSearching/>
             <Contacts/>
